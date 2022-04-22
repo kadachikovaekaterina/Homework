@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\bin\MCD\Debug\net6.0\дз по 2-ому семинару.exe
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\bin\MCD\Debug\net6.0\дз по 2-ому семинару.deps.json
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\bin\MCD\Debug\net6.0\дз по 2-ому семинару.runtimeconfig.json
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\bin\MCD\Debug\net6.0\дз по 2-ому семинару.dll
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\bin\MCD\Debug\net6.0\дз по 2-ому семинару.pdb
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\дз по 2-ому семинару.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\дз по 2-ому семинару.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\дз по 2-ому семинару.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\дз по 2-ому семинару.AssemblyInfo.cs
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\дз по 2-ому семинару.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\дз по 2-ому семинару.dll
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\refint\дз по 2-ому семинару.dll
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\дз по 2-ому семинару.pdb
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\дз по 2-ому семинару.genruntimeconfig.cache
+C:\Users\Admin\Desktop\разработчик\C#\дз по 2-ому семинару\obj\MCD\Debug\net6.0\ref\дз по 2-ому семинару.dll
